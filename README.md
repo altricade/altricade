@@ -40,7 +40,5 @@
 
 <div style="display: flex; justify-content: center; gap: 2rem">
      <img src="https://komarev.com/ghpvc/?username=altricade&color=green"  width="120" height="20"/>    
-     <a href="https://wakatime.com/@ed15a69e-5f2b-4422-bafd-950da82f627b">
-         <img src="https://wakatime.com/badge/user/68fe5ee1-a2c2-472d-a1b2-af2705e3397b.svg" />
-     </a>
+    <a href="https://wakatime.com/@68fe5ee1-a2c2-472d-a1b2-af2705e3397b"><img src="https://wakatime.com/badge/user/68fe5ee1-a2c2-472d-a1b2-af2705e3397b.svg" alt="Total time coded since Feb 8 2025" /></a>
 </div>
