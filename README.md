@@ -17,9 +17,7 @@
 [![](https://img.shields.io/badge/-Nuxt.js-000?style=flat&logo=Nuxt.js)](https://github.com/altricade)
 [![](https://img.shields.io/badge/-React.js-000?style=flat&logo=React)](https://github.com/altricade)
 [![](https://img.shields.io/badge/-Vue.js-000?style=flat&logo=Vue.js)](https://github.com/altricade)
-[![](https://img.shields.io/badge/-Electron-000?style=flat&logo=Electron)](https://github.com/altricade)
 [![](https://img.shields.io/badge/-Node.js-000?style=flat&logo=Node.js)](https://github.com/altricade)
-[![](https://img.shields.io/badge/-ReactNative-000?style=flat&logo=React)](https://github.com/altricade)
 
 #### CSS Framework
 
